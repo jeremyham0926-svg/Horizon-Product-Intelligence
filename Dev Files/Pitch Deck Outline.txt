@@ -1,0 +1,122 @@
+2. Pitch Deck Outline (Investor‑Ready)
+Use this as the structure for your slides.
+
+Slide 1 — Title
+Horizon Product Intelligence  
+The universal product‑opportunity engine.
+
+Slide 2 — The Problem
+Companies waste millions building the wrong products because:
+
+Market signals are noisy
+
+Competitors move faster
+
+Internal biases distort decisions
+
+Capabilities are misunderstood
+
+Constraints are ignored
+
+Strategy is reactive, not predictive
+
+There is no universal system that tells companies what they should build next.
+
+Slide 3 — The Solution
+A decision engine that evaluates markets, competitors, constraints, capabilities, and product concepts — and produces a clear, defensible recommendation for the next product a company should build.
+
+Slide 4 — How It Works
+Six intelligence engines:
+
+Market Intelligence
+
+Competitor Intelligence
+
+Product Viability
+
+Constraint Analysis
+
+Strategic Fit
+
+Executive Decision Synthesis
+
+Slide 5 — The Output
+A board‑ready recommendation:
+
+What product to build
+
+Why it fits the company
+
+Why it will win
+
+How to position it
+
+How to price it
+
+What risks to manage
+
+How it complements the existing portfolio
+
+Slide 6 — Why Now
+Markets move faster
+
+Competition is global
+
+Product cycles are shorter
+
+AI enables predictive strategy
+
+Companies need clarity, not dashboards
+
+Slide 7 — Market Size
+Any company that builds products:
+
+Manufacturing
+
+SaaS
+
+Healthcare
+
+Logistics
+
+Consumer products
+
+Industrial equipment
+
+Retail
+
+Energy
+
+This is a multi‑billion‑dollar TAM.
+
+Slide 8 — Business Model
+SaaS subscription:
+
+Tiered by company size
+
+Tiered by number of opportunities analyzed
+
+Add‑on intelligence packs
+
+Enterprise integrations
+
+Slide 9 — Competitive Advantage
+Proprietary scoring models
+
+Multi‑industry applicability
+
+High switching cost
+
+Executive‑level value
+
+Data network effects
+
+Slide 10 — Roadmap
+MVP → v1 → Enterprise
+(Full roadmap below)
+
+Slide 11 — Team
+Your background + strategic vision.
+
+Slide 12 — Ask
+Funding, partnerships, pilot customers.

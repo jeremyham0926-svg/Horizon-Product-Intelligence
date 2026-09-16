@@ -1,0 +1,59 @@
+horizon_product_intelligence/
+│
+├── app.py                  # Streamlit entrypoint
+├── pyproject.toml          # Poetry or PDM config
+├── README.md
+├── .env
+│
+├── horizon/
+│   ├── __init__.py
+│   │
+│   ├── config/
+│   │   ├── __init__.py
+│   │   ├── settings.py     # env vars, constants
+│   │   └── logging_config.py
+│   │
+│   ├── domain/             # core data models
+│   │   ├── __init__.py
+│   │   ├── company_profile.py
+│   │   ├── market.py
+│   │   ├── competitor.py
+│   │   ├── product_opportunity.py
+│   │   ├── constraints.py
+│   │   └── decision.py
+│   │
+│   ├── engines/            # intelligence engines
+│   │   ├── __init__.py
+│   │   ├── market_engine.py
+│   │   ├── competitor_engine.py
+│   │   ├── viability_engine.py
+│   │   ├── constraint_engine.py
+│   │   ├── strategic_fit_engine.py
+│   │   └── decision_engine.py
+│   │
+│   ├── orchestrator/
+│   │   ├── __init__.py
+│   │   └── product_cycle.py  # main “run analysis” function
+│   │
+│   ├── ui/                 # Streamlit pages
+│   │   ├── __init__.py
+│   │   ├── layout.py
+│   │   ├── home.py
+│   │   ├── opportunity_builder.py
+│   │   ├── analysis_view.py
+│   │   └── decision_view.py
+│   │
+│   └── utils/
+│       ├── __init__.py
+│       ├── scoring.py
+│       ├── text.py
+│       └── serialization.py
+│
+└── tests/
+    ├── __init__.py
+    ├── test_market_engine.py
+    ├── test_competitor_engine.py
+    ├── test_viability_engine.py
+    ├── test_constraint_engine.py
+    ├── test_strategic_fit_engine.py
+    └── test_decision_engine.py

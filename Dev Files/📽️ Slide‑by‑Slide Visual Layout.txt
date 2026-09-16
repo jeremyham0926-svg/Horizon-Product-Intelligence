@@ -1,0 +1,285 @@
+📽️ Slide‑by‑Slide Visual Layout
+Below, each slide includes:
+
+Visual composition
+
+Layout structure
+
+Design cues
+
+Where text, graphics, and icons go
+
+This is the full visual blueprint.
+
+Slide 1 — Title
+Visual Layout
+Full‑bleed gradient background (deep navy → electric blue)
+
+Centered large title text
+
+Subheading below
+
+Minimalistic logo in top-left
+
+Clean footer with website or tagline
+
+Design
+Title: Horizon Product Intelligence
+
+Subtitle: The universal product‑opportunity engine
+
+Visual: abstract “horizon line” or rising arc
+
+Slide 2 — The Problem
+Visual Layout
+Left side: bold headline
+
+Right side: vertical list of pain points
+
+Background: light gray or white
+
+Iconography: warning/alert icons next to each bullet
+
+Design
+Headline: Companies waste millions building the wrong products.
+
+Right column: 5–6 crisp pain points
+
+Visual: subtle red accent to emphasize “problem”
+
+Slide 3 — The Cost of Wrong Decisions
+Visual Layout
+Large number‑driven slide
+
+Big bold statistic in center
+
+Smaller supporting stats around it
+
+Background: white with faint grid or blueprint pattern
+
+Design
+Center: 35–50% of new products fail
+
+Surrounding stats: R&D waste, competitive losses, etc.
+
+Visual: broken product icon or downward trend line
+
+Slide 4 — The Opportunity
+Visual Layout
+Full-width headline
+
+Three horizontal sections beneath
+
+Each section with icon + short text
+
+Background: clean white
+
+Design
+Headline: Every company needs clarity on what to build next.
+
+Icons: market, competitor, strategy
+
+Visual: upward arrow or spotlight effect
+
+Slide 5 — The Solution
+Visual Layout
+Centered product name
+
+Underneath: 3–4 key value statements
+
+Right side: mockup of the app (placeholder box)
+
+Background: gradient or subtle tech pattern
+
+Design
+Title: Horizon Product Intelligence
+
+Visual: laptop/tablet mockup with placeholder UI
+
+Slide 6 — How It Works (Intelligence Stack)
+Visual Layout
+Vertical stack diagram (6 layers)
+
+Each layer with icon + label
+
+Background: white with faint geometric lines
+
+Design
+Layers:
+
+Market Intelligence
+
+Competitor Intelligence
+
+Product Viability
+
+Constraints
+
+Strategic Fit
+
+Executive Decision
+
+Visual: stacked blocks or layered cards
+
+Slide 7 — The Output
+Visual Layout
+Left: screenshot mockup of the final recommendation page
+
+Right: bullet list of output components
+
+Background: clean white
+
+Design
+Title: A complete executive decision package
+
+Visual: “executive summary” style card
+
+Slide 8 — Example Use Case
+Visual Layout
+Split screen:
+
+Left: company inputs (icons + labels)
+
+Right: system recommendation (highlighted card)
+
+Background: light gray
+
+Design
+Title: Real example: Manufacturing company
+
+Visual: input → output flow arrow
+
+Slide 9 — Why Now
+Visual Layout
+Full-width headline
+
+5 icons in a row beneath
+
+Each icon with a short label
+
+Background: dark blue or charcoal
+
+Design
+Headline: The timing is perfect.
+
+Icons: speed, AI, competition, global markets, product cycles
+
+Slide 10 — Market Size
+Visual Layout
+Large TAM number centered
+
+World map or industry icons behind
+
+Background: white
+
+Design
+Title: Massive global market
+
+Visual: industries represented by icons
+
+Slide 11 — Business Model
+Visual Layout
+Two columns:
+
+Left: SaaS subscription tiers
+
+Right: enterprise add-ons
+
+Background: light gradient
+
+Design
+Icons: subscription, enterprise, integrations
+
+Slide 12 — Competitive Advantage
+Visual Layout
+4‑quadrant grid
+
+Each quadrant: icon + short text
+
+Background: white
+
+Design
+Quadrants:
+
+Proprietary scoring
+
+Multi‑industry applicability
+
+High switching cost
+
+Data network effects
+
+Slide 13 — Technology Architecture
+Visual Layout
+Horizontal diagram showing:
+
+Data → Engines → Orchestrator → UI
+
+Background: blueprint-style grid
+
+Design
+Title: Modular, scalable architecture
+
+Visual: pipeline diagram
+
+Slide 14 — Roadmap
+Visual Layout
+Timeline with three phases
+
+Each phase: icon + milestone list
+
+Background: white
+
+Design
+Phases:
+
+MVP
+
+v1
+
+Enterprise
+
+Slide 15 — Team
+Visual Layout
+Photos or silhouettes
+
+Titles + one-line expertise
+
+Background: clean white
+
+Design
+Title: Founders with deep product strategy and AI experience
+
+Slide 16 — Ask
+Visual Layout
+Centered text
+
+Three boxes below:
+
+Funding
+
+Pilot customers
+
+Partnerships
+
+Background: gradient
+
+Design
+Title: We are raising to accelerate development and onboarding.
+
+Slide 17 — Closing
+Visual Layout
+Full-width inspirational headline
+
+Subheading below
+
+Logo centered
+
+Background: deep navy
+
+Design
+Headline:
+The future of product strategy.
+
+Subheading:
+Build the right products — every time.

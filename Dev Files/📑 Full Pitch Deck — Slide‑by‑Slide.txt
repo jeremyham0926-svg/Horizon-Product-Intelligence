@@ -1,0 +1,299 @@
+📑 Full Pitch Deck — Slide‑by‑Slide Text
+Slide 1 — Title
+Horizon Product Intelligence  
+The universal product‑opportunity engine.
+Helping companies decide what to build next — with clarity, confidence, and competitive advantage.
+
+Slide 2 — The Problem
+Companies routinely waste millions building products that fail.
+
+Why?
+
+Market signals are noisy
+
+Competitors move faster
+
+Internal biases distort decisions
+
+Capabilities are misunderstood
+
+Constraints are ignored
+
+Strategy is reactive, not predictive
+
+There is no universal system that tells companies what they should build next.
+
+Slide 3 — The Cost of Wrong Decisions
+Across industries:
+
+35–50% of new products fail
+
+R&D cycles are long and expensive
+
+Competitive pressure is increasing
+
+Product cycles are shortening
+
+Market shifts happen faster than planning cycles
+
+Companies are guessing — and paying for it.
+
+Slide 4 — The Opportunity
+Every company that builds products needs:
+
+Clear market intelligence
+
+Competitor insight
+
+Viability analysis
+
+Constraint awareness
+
+Strategic alignment
+
+Executive‑ready recommendations
+
+This is a massive, underserved market.
+
+Slide 5 — The Solution
+Horizon Product Intelligence  
+A decision engine that evaluates:
+
+Markets
+
+Competitors
+
+Constraints
+
+Internal capabilities
+
+Product concepts
+
+Executive priorities
+
+And produces:
+
+A clear, defensible recommendation for the next product a company should build — and why.
+
+Slide 6 — How It Works (The Intelligence Stack)
+1. Market Intelligence Engine
+Identifies emerging markets, underserved segments, and demand patterns.
+
+2. Competitor Intelligence Engine
+Maps competitor strengths, weaknesses, pricing, and positioning.
+
+3. Product Viability Engine
+Evaluates demand, differentiation, feasibility, and profitability.
+
+4. Constraint Engine
+Analyzes regulatory, technical, platform, and operational friction.
+
+5. Strategic Fit Engine
+Aligns opportunities with the company’s capabilities and goals.
+
+6. Executive Decision Engine
+Synthesizes all engines into a single, board‑ready recommendation.
+
+Slide 7 — The Output
+A complete executive decision package:
+
+What product to build
+
+Why it fits the company
+
+Why it will win
+
+How it complements the existing portfolio
+
+How to position it
+
+How to price it
+
+What risks to manage
+
+How to launch it
+
+This is product strategy in a box.
+
+Slide 8 — Example Use Case
+A manufacturing company inputs:
+
+Industry
+
+Current products
+
+Competitors
+
+Capabilities
+
+Constraints
+
+Product concept
+
+Horizon returns:
+
+“Build a modular predictive‑maintenance sensor platform.
+It aligns with your capabilities, fills a competitor gap, and meets rising demand in automotive and food‑processing plants.”
+
+This is actionable, defensible, and immediately valuable.
+
+Slide 9 — Why Now
+Markets move faster
+
+Competition is global
+
+Product cycles are shorter
+
+AI enables predictive strategy
+
+Companies need clarity, not dashboards
+
+The timing is perfect for a universal decision engine.
+
+Slide 10 — Market Size (TAM)
+Any company that builds products:
+
+Manufacturing
+
+SaaS
+
+Healthcare
+
+Logistics
+
+Consumer products
+
+Industrial equipment
+
+Retail
+
+Energy
+
+This is a multi‑billion‑dollar global market.
+
+Slide 11 — Business Model
+SaaS Subscription
+Tiered by:
+
+Company size
+
+Number of product opportunities analyzed
+
+Industry intelligence packs
+
+Competitor intelligence packs
+
+Enterprise Add‑Ons
+Custom scoring models
+
+Private data ingestion
+
+ERP/CRM integrations
+
+Executive reporting modules
+
+Slide 12 — Competitive Advantage
+Horizon wins because:
+
+Proprietary scoring models
+
+Multi‑industry applicability
+
+High switching cost
+
+Data network effects
+
+Executive‑level value
+
+Clear ROI (fewer failed products, faster decisions)
+
+No existing platform provides universal product‑opportunity intelligence.
+
+Slide 13 — Technology Architecture
+A modular intelligence system:
+
+Domain models
+
+Data ingestion layer
+
+Six intelligence engines
+
+Orchestrator
+
+UI layer
+
+Scoring logic
+
+Narrative generator
+
+Built for scalability, accuracy, and enterprise integration.
+
+Slide 14 — Roadmap
+MVP (3–4 months)
+Core engines
+
+Input schema
+
+Streamlit UI
+
+Executive summary export
+
+v1 (6–9 months)
+React/Next.js front‑end
+
+FastAPI backend
+
+Industry data packs
+
+Multi‑opportunity comparison
+
+Enterprise (12–18 months)
+Custom scoring models
+
+ERP/CRM integrations
+
+Predictive forecasting
+
+Automated product roadmaps
+
+Multi‑team collaboration
+
+Slide 15 — Team
+Founders with deep experience in:
+
+Product strategy
+
+Data modeling
+
+Industry analysis
+
+AI‑driven decision systems
+
+Enterprise software
+
+This team understands both the problem and the solution.
+
+Slide 16 — Ask
+We are seeking:
+
+Funding for MVP → v1
+
+Pilot customers in manufacturing, SaaS, and logistics
+
+Strategic partners for industry data integration
+
+Use of funds:
+
+Engineering
+
+Data acquisition
+
+UI/UX
+
+Early customer onboarding
+
+Slide 17 — Closing
+Horizon Product Intelligence  
+The future of product strategy.
+
+A universal decision engine that helps companies build the right products — every time.

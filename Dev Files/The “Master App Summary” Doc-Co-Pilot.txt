@@ -1,0 +1,257 @@
+📘 MASTER APP SUMMARY — Horizon Product Intelligence
+1. App Name
+Horizon Product Intelligence
+
+2. Core Purpose
+A Python‑based universal product‑opportunity engine that helps companies decide what product they should build next, using structured intelligence across markets, competitors, constraints, internal capabilities, and strategic goals.
+
+3. Target Users
+Manufacturing companies
+
+SaaS product teams
+
+Healthcare product innovators
+
+Logistics and supply chain companies
+
+Consumer product companies
+
+Any organization that builds and launches products
+
+4. The Problem It Solves
+Companies routinely waste money building the wrong products because:
+
+Market signals are unclear
+
+Competitors move faster
+
+Internal biases distort decisions
+
+Constraints are misunderstood
+
+Capabilities are misaligned
+
+Strategy is reactive instead of predictive
+
+There is no universal system that tells companies what they should build next.
+
+5. The Solution
+A Python-driven decision engine that:
+
+Ingests structured company inputs
+
+Runs six intelligence engines
+
+Scores opportunities across multiple dimensions
+
+Synthesizes results into a board‑ready recommendation
+
+Explains why a product fits
+
+Shows how it wins
+
+Identifies risks and constraints
+
+Aligns with executive priorities
+
+6. The Six Intelligence Engines
+Market Intelligence Engine
+
+Competitor Intelligence Engine
+
+Product Viability Engine
+
+Constraint Analysis Engine
+
+Strategic Fit Engine
+
+Executive Decision Engine
+
+Each engine produces structured scores and insights.
+
+7. Required Inputs
+Company Profile
+Industry
+
+Segments
+
+Current products
+
+Capabilities
+
+Regions
+
+Strategic goals
+
+Market Inputs
+Target markets
+
+Segments
+
+Pain points
+
+Trend signals
+
+Competitor Inputs
+Competitor list
+
+Competitor products
+
+Strengths & weaknesses
+
+Threats & substitutes
+
+Product Opportunity Definition
+Name
+
+Value proposition
+
+Feature set
+
+Pricing model
+
+Distribution channels
+
+Target customers
+
+Use cases
+
+Constraints
+Regulatory
+
+Technical
+
+Platform
+
+Operational
+
+Integration requirements
+
+Internal Performance Data
+(Optional but valuable)
+
+Sales data
+
+Customer feedback
+
+Support tickets
+
+Cost structure
+
+Profitability
+
+Executive Intent
+Primary goal
+
+Time horizon
+
+Risk appetite
+
+8. Output
+A complete executive decision package including:
+
+Recommended product
+
+Why it fits the company
+
+Why it will win
+
+Market opportunity score
+
+Competitor threat score
+
+Viability score
+
+Constraint difficulty score
+
+Strategic fit score
+
+Pricing guidance
+
+Positioning guidance
+
+Risk map
+
+Portfolio alignment
+
+Launch considerations
+
+9. Technical Stack
+MVP
+Python
+
+Streamlit (UI)
+
+Pydantic (data models)
+
+Pure Python engines
+
+Orchestrator service
+
+Future
+FastAPI backend
+
+React/Next.js front‑end
+
+SQL/NoSQL data layer
+
+Industry intelligence packs
+
+Enterprise integrations
+
+10. File Structure
+Code
+horizon_product_intelligence/
+│
+├── app.py
+├── README.md
+├── pyproject.toml
+├── .env
+│
+├── horizon/
+│   ├── config/
+│   ├── domain/
+│   ├── data/
+│   ├── engines/
+│   ├── orchestrator/
+│   ├── ui/
+│   └── utils/
+│
+└── tests/
+11. Current Development Stage
+Architecture defined
+
+Input schema finalized
+
+Intelligence engines outlined
+
+Orchestrator flow designed
+
+Streamlit UI structure drafted
+
+Ready to begin coding MVP
+
+12. What You Want Next
+(You can update this section anytime)
+
+Example:
+
+Build MVP in Python
+
+Implement all six engines
+
+Create scoring models
+
+Build Streamlit UI pages
+
+Add example manufacturing scenario
+
+Generate executive summary output
+
+📌 How to Use This Document
+Whenever you want me fully aligned with the app vision, paste this entire summary.
+
+It resets context instantly.
+It keeps development focused.
+It prevents drift.
+It ensures every answer is on‑target.

@@ -1,0 +1,122 @@
+3. One‑Page Investor Summary
+Horizon Product Intelligence  
+A universal product‑opportunity engine that helps companies decide what to build next — with clarity, confidence, and competitive advantage.
+
+The Problem
+Companies routinely build products that fail because they misread markets, underestimate competitors, misunderstand constraints, and rely on intuition instead of structured intelligence.
+
+The Solution
+Horizon evaluates:
+
+Market trends
+
+Competitor positioning
+
+Product viability
+
+Regulatory/technical constraints
+
+Internal capabilities
+
+Executive priorities
+
+It produces a single, board‑ready recommendation for the next product a company should build — and why.
+
+Why It’s Defensible
+Proprietary scoring models
+
+Multi‑industry applicability
+
+High switching cost
+
+Data network effects
+
+Executive‑level value
+
+Business Model
+SaaS subscription + enterprise add‑ons.
+
+Market Size
+Any company that builds products — manufacturing, SaaS, healthcare, logistics, consumer goods, industrial equipment, and more.
+
+Roadmap
+MVP → v1 → enterprise integrations → predictive forecasting → portfolio optimization.
+
+🎬 4. Product Demo Script
+Use this when showing the product to investors or customers.
+
+Step 1 — Define the Opportunity
+User selects industry, segments, and enters a product concept.
+
+Step 2 — Market Intelligence
+The system identifies emerging markets, underserved segments, and demand patterns.
+
+Step 3 — Competitor Intelligence
+It maps competitors, their strengths, weaknesses, pricing, and positioning.
+
+Step 4 — Product Viability
+It evaluates demand, differentiation, feasibility, and profitability.
+
+Step 5 — Constraints
+It analyzes regulatory, technical, platform, and operational friction.
+
+Step 6 — Strategic Fit
+It aligns the opportunity with the company’s capabilities and goals.
+
+Step 7 — Executive Decision
+The system produces a clear recommendation:
+
+“Build Product X. Here’s why it fits your company, why it will win, and how to position it.”
+
+🧭 5. Founder Narrative
+This is your personal story for investors.
+
+**“I’ve spent years watching companies make product decisions based on intuition, politics, or incomplete data. They guess. They hope. They gamble. And they lose millions when they get it wrong.
+
+I wanted to build a system that replaces guesswork with clarity — a universal intelligence engine that tells any company what they should build next, and why.
+
+Horizon Product Intelligence is the result. It’s not a dashboard. It’s not analytics. It’s a decision engine — one that evaluates markets, competitors, constraints, capabilities, and strategy, and produces a board‑ready recommendation.
+
+This is the future of product strategy.”**
+
+🚀 6. Roadmap (MVP → v1 → Enterprise)
+MVP (3–4 months)
+Input schema
+
+All six engines
+
+Orchestrator
+
+Streamlit UI
+
+Basic scoring models
+
+PDF executive summary
+
+v1 (6–9 months)
+React/Next.js front‑end
+
+FastAPI backend
+
+Industry data packs
+
+Competitor intelligence packs
+
+Multi‑opportunity comparison
+
+Portfolio scoring
+
+Enterprise (12–18 months)
+Custom scoring models
+
+Private data ingestion
+
+ERP/CRM integrations
+
+Predictive forecasting
+
+Automated product roadmaps
+
+Multi‑team collaboration
+
+AI‑generated positioning & pricing strategies
