@@ -4,7 +4,19 @@ A universal product‑opportunity engine built in Python.
 Horizon Product Intelligence helps companies decide what product they should build next using structured intelligence across markets, competitors, constraints, internal capabilities, and strategic goals. It produces a clear, defensible, executive‑ready recommendation backed by six analytical engines.
 
 🚀 Overview
-Companies routinely waste money building the wrong products due to unclear market signals, fast‑moving competitors, internal biases, misunderstood constraints, and misaligned capabilities. Horizon solves this by providing a Python‑based decision engine that evaluates product opportunities across multiple dimensions and synthesizes them into a board‑ready recommendation.
+Companies routinely waste money building the wrong products due to:
+
+unclear market signals
+
+fast‑moving competitors
+
+internal biases
+
+misunderstood constraints
+
+misaligned capabilities
+
+Horizon solves this by providing a Python‑based decision engine that evaluates product opportunities across multiple dimensions and synthesizes them into a board‑ready recommendation.
 
 ✨ Key Features
 Structured input system for company, market, competitor, and product data
